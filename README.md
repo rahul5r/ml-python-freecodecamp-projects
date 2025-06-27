@@ -1,6 +1,6 @@
 # 🧠 Machine Learning with Python Projects – freeCodeCamp Certification
 
-This repository contains the 5 machine learning projects I completed as part of the [freeCodeCamp Machine Learning with Python Certification](https://www.freecodecamp.org/certification/rahul5r/machine-learning-with-python-v7).
+This repository contains the 5 machine learning projects I completed as part of the [freeCodeCamp Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/).
 
 ## 🗂 Projects
 
